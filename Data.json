@@ -1,0 +1,40 @@
+{
+  "portfolio": {
+    "completedProjects": [
+      {
+        "id": 1,
+        "title": "Project Alpha",
+        "description": "A responsive web application for managing tasks.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "completionDate": "2023-05-10",
+        "link": "https://example.com/project-alpha"
+      },
+      {
+        "id": 2,
+        "title": "Project Beta",
+        "description": "An e-commerce platform for small businesses.",
+        "technologies": ["React", "Node.js", "MongoDB"],
+        "completionDate": "2023-07-15",
+        "link": "https://example.com/project-beta"
+      }
+    ],
+    "newWorks": [
+      {
+        "id": 1,
+        "title": "Project Gamma",
+        "description": "A mobile app for fitness tracking.",
+        "technologies": ["Flutter", "Firebase"],
+        "status": "In Progress",
+        "expectedCompletion": "2024-01-20"
+      },
+      {
+        "id": 2,
+        "title": "Project Delta",
+        "description": "A blog platform for writers and readers.",
+        "technologies": ["Vue.js", "Express"],
+        "status": "Planning",
+        "expectedCompletion": "2024-03-30"
+      }
+    ]
+  }
+}
