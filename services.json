@@ -1,22 +1,22 @@
 [
-    {
-      "title": "Estimate",
-      "description": "We provide accurate cost estimates for your construction projects."
-    },
-    {
-      "title": "Design",
-      "description": "Creative and functional designs tailored to your needs."
-    },
-    {
-      "title": "Construction",
-      "description": "We manage your construction projects from start to finish."
-    },
-    {
-      "title": "Home renovation",
-      "description":"We renovate the old building to modern interiors and asthetics"
-    },
-    {
-      "title": "Test",
-      "description":"Test"
-    }
-  ]
+  {
+    "title": "Estimate",
+    "description": "We provide accurate cost estimates for your construction projects, including detailed and abstract estimates for all residential and commercial constructions."
+  },
+  {
+    "title": "Design",
+    "description": "We provide structural designs for your construction projects, as well as 2D plans and 3D elevations for your dream construction projects."
+  },
+  {
+    "title": "Construction",
+    "description": "As civil engineers, we supervise your construction projects through to completion and provide assistance with your ongoing construction projects."
+  },
+  {
+    "title": "Home Renovation",
+    "description": "We renovate old buildings, transforming them with modern interiors and aesthetics."
+  },
+  {
+    "title": "Contract Construction",
+    "description": "We undertake complete construction projects on a contract basis, managing everything from planning to execution, ensuring high-quality results within agreed timelines and budgets."
+  }
+]
